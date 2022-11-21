@@ -1,4 +1,4 @@
-public class Main{
+public class Main{ //Задача №2
     public static void main(String[] args){
         Store store = new Store();
         Producer producer = new Producer(store);
